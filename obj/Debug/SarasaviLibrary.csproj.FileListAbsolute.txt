@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\bin\Debug\SarasaviLibrary.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\bin\Debug\SarasaviLibrary.exe
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\bin\Debug\SarasaviLibrary.pdb
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\bin\Debug\MetroFramework.Design.dll
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\bin\Debug\MetroFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\bin\Debug\MetroFramework.Fonts.dll
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.exe
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.pdb
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Home.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Member_management.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Librarian_management.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Loan.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Make_inquiry.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Register_book.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Reservations.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Return.resources
+c:\users\user\documents\visual studio 2015\Projects\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.Visitor_management.resources
+C:\Users\pramu\OneDrive\HND\Assignments\Sem 2\OOP\SarasaviLibrary\SarasaviLibrary\bin\Debug\SarasaviLibrary.exe.config
+C:\Users\pramu\OneDrive\HND\Assignments\Sem 2\OOP\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.exe
+C:\Users\pramu\OneDrive\HND\Assignments\Sem 2\OOP\SarasaviLibrary\SarasaviLibrary\obj\Debug\SarasaviLibrary.pdb
