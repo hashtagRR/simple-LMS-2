@@ -12,27 +12,27 @@ Librarians log in (checked against a `librarian` table in the Access
 database) and land on a tile-based home screen (`pages/Home.cs`) with
 access to:
 
-- **Book/Copy Management** (`Register_book.cs`) — add books/copies to the
+- **Book/Copy Management** (`Register_book.cs`): add books/copies to the
   catalogue.
-- **Librarian Management** (`Librarian_management.cs`) — manage librarian
+- **Librarian Management** (`Librarian_management.cs`): manage librarian
   accounts.
-- **Member Management** (`Member_management.cs`) — manage library member
+- **Member Management** (`Member_management.cs`): manage library member
   records.
-- **Visitor Management** (`Visitor_management.cs`) — track visitors.
-- **Search Book / Check Copy** (`Make_inquiry.cs`) — look up books and copy
+- **Visitor Management** (`Visitor_management.cs`): track visitors.
+- **Search Book / Check Copy** (`Make_inquiry.cs`): look up books and copy
   availability.
-- **Reserve Book** (`Reservations.cs`) — place reservations for members.
-- **Loan** (`Loan.cs`) — check out books to members.
-- **Return** (`Return.cs`) — process book returns.
+- **Reserve Book** (`Reservations.cs`): place reservations for members.
+- **Loan** (`Loan.cs`): check out books to members.
+- **Return** (`Return.cs`): process book returns.
 
 ## Project layout
 
-- `SarasaviLibrary.sln` — Visual Studio solution.
-- `pages/` — the actual C# project (despite the folder name, this holds
+- `SarasaviLibrary.sln`: Visual Studio solution.
+- `pages/`: the actual C# project (despite the folder name, this holds
   the whole `SarasaviLibrary.csproj`, all forms, and the Access database):
-  - `Form1.cs` — the login form (queries the `librarian` table via
+  - `Form1.cs`: the login form (queries the `librarian` table via
     `OleDbConnection`/OleDb over `Sarasavi_DB.accdb`).
-  - `Sarasavi_DB.accdb` — the Access database file the app reads/writes
+  - `Sarasavi_DB.accdb`: the Access database file the app reads/writes
     directly (via the ADO.NET typed DataSets `Sarasavi_DBDataSet` /
     `Sarasavi_DBDataSet1`).
   - The various `*.cs`/`*.Designer.cs`/`*.resx` triples are the feature
@@ -41,7 +41,7 @@ access to:
 Build output (`bin/`, `obj/`), the zipped `.vs/` editor-state folder
 (`vs.zip`), and a leftover `Login.txt` note with a stale sample
 username/password have been removed from version control and are now
-covered by `.gitignore` — the app authenticates against the `librarian`
+covered by `.gitignore`. The app authenticates against the `librarian`
 table in the Access database, not that file.
 
 ## Running it
