@@ -37,24 +37,12 @@ access to:
     `Sarasavi_DBDataSet1`).
   - The various `*.cs`/`*.Designer.cs`/`*.resx` triples are the feature
     forms listed above.
-- `Login.txt` — a leftover plain-text note with a sample username/password
-  (`qwer` / `1234`); it is **not** read by the application at runtime — the
-  app authenticates against the `librarian` table in the Access database,
-  not this file.
 
-### Checked-in build artifacts
-
-This repository has build output committed alongside the source:
-
-- `bin/` and `obj/` — Visual Studio build output (compiled `.exe`, `.pdb`,
-  resource caches, and a copy of the Access database as it existed at
-  build time).
-- `vs.zip` — a zipped `.vs/` Visual Studio user-settings folder (editor
-  state, not source).
-
-These are left as-is (this pass is documentation-only); a real cleanup
-would add a `.gitignore` and remove `bin/`, `obj/`, and `vs.zip` from
-version control.
+Build output (`bin/`, `obj/`), the zipped `.vs/` editor-state folder
+(`vs.zip`), and a leftover `Login.txt` note with a stale sample
+username/password have been removed from version control and are now
+covered by `.gitignore` — the app authenticates against the `librarian`
+table in the Access database, not that file.
 
 ## Running it
 
